@@ -3,3 +3,6 @@
 terraform.tfstate*
 *.tfvars
 secret.txt
+terraform.exe
+*.exe
+terraformSoftware/
